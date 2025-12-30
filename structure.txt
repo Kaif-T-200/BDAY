@@ -1,0 +1,6 @@
+birthday-surprise/
+├── index.html (Countdown page - shows until Jan 6)
+├── birthday.html (Main birthday site - reveals on Jan 6)
+├── styles.css
+├── script.js
+└── assets/ (folder for your images)
